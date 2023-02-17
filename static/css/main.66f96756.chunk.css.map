@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,sBAEF,CAEA,gBACE,YAAa,CACb,iCAAkC,CAClC,aAAS,CAAT,QACF","file":"main.66f96756.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n  /* text-align: center; */\n}\n\n.grid-container {\n  display: grid;\n  grid-template-columns: 1fr 1fr 1fr;\n  gap: 10px;\n}\n"]}
